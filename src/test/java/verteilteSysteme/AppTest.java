@@ -1,4 +1,4 @@
-package info.sperber;
+package verteilteSysteme;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,9 +1,8 @@
-package info.sperber;
+package verteilteSysteme;
 
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.Socket;
-import java.security.Timestamp;
 import java.util.Date;
 import java.util.Scanner;
 
